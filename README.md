@@ -13,3 +13,5 @@ App must be written in C#
 Source code must be delivered to client
 
 Maintenance and new features to be handled by client’s nephew
+
+https://trello.com/invite/b/yucEV0sb/5fb8df6b2c97d98afc955436a7b7b890/c-introduction
